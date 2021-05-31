@@ -1,5 +1,5 @@
 /*
- * @authors Tanner Glantz and Brett Phillips
+ * @authors Tanner and Brett Phillips
  * @version 03/14/2016
  * Description: The PlayerChoice class creates a window for the user to choose what players are playing before strating the game.
  * Course: ISTE-121

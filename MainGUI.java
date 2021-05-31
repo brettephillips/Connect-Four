@@ -1,5 +1,5 @@
 /*
- * @authors Tanner Glantz and Brett Phillips
+ * @authors Tanner and Brett Phillips
  * @version 03/14/2016
  * Description: The MainGUI class creates the Connect 4 game board with the names entered in PlayerChoice. It then keeps
  *              track of wins, checks to make sure that player moves are valid and upon a win displays the winner to the

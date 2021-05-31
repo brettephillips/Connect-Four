@@ -1,5 +1,5 @@
 /*
- * @authors Tanner Glantz and Brett Phillips
+ * @authors Tanner  and Brett Phillips
  * @version 03/14/2016
  * Description: The StartUp class creates the start menu of the game. This class should be the only java file ran by the user
  *              because it will call the PlayerChoice.java file which will then call the MainGUI.java.
